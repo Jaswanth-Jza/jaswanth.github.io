@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Jaswanth Subramanyam"
 title_separator          : "-"
-name                     : &name "Jaswanth"
+name                     : &name "Your name"
 description              : &description "personal description"
 url                      : https://jaswanth.net # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -21,7 +21,7 @@ repository               : "Jaswanth-Jza/jaswanth.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "bio_pic.png"
+  avatar           : "bio-pic.png"
   name             : "Jaswanth Subramanyam"
   pronouns         : "he/him"  
   bio              : "Doctoral Researcher"
