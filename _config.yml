@@ -21,7 +21,7 @@ repository               : "Jaswanth-Jza/jaswanth.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "bio-pic.png"
+  avatar           : "bio-photo.png"
   name             : "Jaswanth Subramanyam"
   pronouns         : "he/him"  
   bio              : "Doctoral Researcher"
