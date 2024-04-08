@@ -15,7 +15,7 @@ description              : "Jaswanth Subramanyam - Doctoral Researcher at Max Pl
 url                      : https://jaswanth.net # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 #baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Jaswanth-Jza/jaswanth.github.io"
-theme: jekyll-theme-midnight
+#theme: jekyll-theme-midnight
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -90,7 +90,7 @@ comments:
   facebook:
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
+    colorscheme          :  "dark" #(default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
