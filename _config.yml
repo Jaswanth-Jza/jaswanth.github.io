@@ -21,22 +21,22 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  avatar           : "jaswanth_subramanyam.webp"
+  name             : "Jaswanth Subramanyam"
+  pronouns         : "he/him"  
+  bio              : "Doctoral Researcher"
+  location         : "Bonn, germany"
+  employer         : "Max Planck Institute for Radio Astronomy"
+  uri              : "https://www.mpifr-bonn.mpg.de/person/111132/2169"# URL
+  email            : "jsubramanyam@mpifr-bonn.mpg.de" 
 
   # Academic websites
-  arxiv            : # URL - Update with the correct link to your profile
+  arxiv            : "https://arxiv.org/search/astro-ph?searchtype=author&query=Jaswanth,+S"
   googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-1513-0014"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+  researchgate     : "https://www.researchgate.net/profile/Jaswanth-Subramanyam"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
