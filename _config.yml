@@ -200,6 +200,9 @@ kramdown:
 
 # Collections
 collections:
+  research:
+    output: true
+    permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
@@ -217,6 +220,14 @@ defaults:
     values:
       layout: single
       author_profile: true
+    # _research
+  - scope:
+      path: ""
+      type: research
+    values:
+      layout: research
+      author_profile: true
+      share: true
   # _publications
   - scope:
       path: ""
