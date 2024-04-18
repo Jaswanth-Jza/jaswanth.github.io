@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "About Me"
 title_separator          : "-"
 name                     : &name "Jaswanth Subramanyam"
-description              : "Jaswanth Subramanyam - Doctoral Researcher at Max Planck Institute for Radio Astronomy"
+description              : "Jaswanth Subramanyam - Doctoral Researcher at Max Planck Institute for Radioastronomy"
 url                      : https://jaswanth.net # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 #baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Jaswanth-Jza/jaswanth.github.io"
@@ -27,7 +27,7 @@ author:
   pronouns         : "he/him"  
   bio              : "Doctoral Researcher"
   location         : "Bonn, germany"
-  employer         : "Max Planck Institute for Radio Astronomy"
+  employer         : "Max Planck Institute for Radioastronomy"
   uri              : "https://www.mpifr-bonn.mpg.de/person/111132/2169"# URL
   email            : "jsubramanyam@mpifr-bonn.mpg.de" 
 
